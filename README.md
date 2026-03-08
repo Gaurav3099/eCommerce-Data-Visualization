@@ -1,6 +1,6 @@
 # E-commerce Data Visualization Project
 
-Data **engineering**, **churning**, and **visualization** for the [E-commerce Customer Behavior Dataset (Kaggle)](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store). Built for realistic business analytics and Adobe Experience Cloud–style analytics.
+Data **engineering**, **churning**, and **visualization** for the [E-commerce Customer Behavior Dataset (Kaggle)](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store). Built for realistic business analytics.
 
 ## Dataset
 
